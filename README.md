@@ -1,6 +1,7 @@
 <img align="right" style="width:40%;" src="https://github.com/luiz-fg/Resources/blob/main/img/Programmer.svg" />
 
-<details align="left">
+<br>
+<details align="left" >
   <summary><b> <samp> Contato </samp></b></summary>
   <samp>
    :email:&nbsp;<a href=mailto:luiz.gomes@universo.univates.br?subject="Contato Profissional - atráves do github">Enviar e-mail</a>
@@ -8,8 +9,15 @@
 </details>
 
 <details align="left">
-  <summary><b> <samp> GitHub Stats </samp></b></summary>
-  Em breve
+  <summary><b> <samp> GitHub Stats - em breve </samp></b></summary>
+  <!--
+  <img
+  align="center"
+  height="165"
+  width="530"
+  src="https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
+/>
+-->
 </details>
  
 
@@ -17,9 +25,15 @@
   <summary><b> <samp> Pessoal </samp></b></summary>
   <samp>
     <br/>
-    <p>:robot: Luiz Fernando</p>
-    <p>10º sem. Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
+    <p>:robot: Luiz Fernando</p> <br>
+    <p>:student: 10º sem. Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
+    <p><i>Previsão de formatura: 2021B / 2022A</i></p><br>
+    <p>:musical_note: AC:zap:DC lover </p>
+    <p>:clapper: Filmes - Séries - Documentários</p>
+    <p>:small_airplane: Viajar  -  :bicyclist: Pedalar  -  :coffee: coffee of course</p>
    </samp>
+  
+  
 </details>
 
 <details align="left">
@@ -40,7 +54,7 @@
 
     
     
-<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/Resources/blob/main/img/jacare.png" /> <i> Selo jacaré - eu vacinei</i> 
+<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/Resources/blob/main/img/jacare.png" /> <i>Selo jacaré - eu vacinei</i> 
 
 
 
