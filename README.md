@@ -1,4 +1,4 @@
-<img align="right" style="width:40%;" src="https://github.com/luiz-fg/Resources/blob/main/img/Programmer.svg" />
+<img align="right" style="width:40%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/Programmer.svg" />
 
 <br>
 <details align="left" >
@@ -40,11 +40,11 @@
   <summary><b> <samp> Skills </samp></b></summary>
   <samp>
       <br>
-      <img  style="width:4%;" src="https://github.com/luiz-fg/Ressources/blob/main/icons/java.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/Ressources/blob/main/icons/mysql.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/Ressources/blob/main/icons/html5.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/Ressources/blob/main/icons/css3.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/Ressources/blob/main/icons/javascript.svg" />
+      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/java.svg" />&nbsp;&nbsp;
+      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/mysql.svg" />&nbsp;&nbsp;
+      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/html5.svg" />&nbsp;&nbsp;
+      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/css3.svg" />&nbsp;&nbsp;
+      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/javascript.svg" />
    </samp>
 </details>
         
@@ -54,7 +54,7 @@
 
     
     
-<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/Resources/blob/main/img/jacare.png" /> <i>Selo jacaré - eu vacinei</i> 
+<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Selo jacaré - eu vacinei</i> 
 
 
 
