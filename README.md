@@ -29,6 +29,7 @@
     <p>:student: 10º sem. Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
     <p><i>Previsão de formatura: 2021B / 2022A</i></p><br>
     <p>:musical_note: AC:zap:DC lover </p>
+    <p>:blue_book: De tudo um pouco </p>
     <p>:clapper: Filmes - Séries - Documentários</p>
     <p>:small_airplane: Viajar  -  :bicyclist: Pedalar  -  :coffee: coffee of course</p>
    </samp>
