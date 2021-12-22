@@ -9,15 +9,10 @@
 </details>
 
 <details align="left">
-  <summary><b> <samp> GitHub Stats - em breve </samp></b></summary>
-  <!--
-  <img
-  align="center"
-  height="165"
-  width="530"
-  src="https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&custom_title=GitHub%20Status&hide=issues&title_color=6633cc&icon_color=f7df1e&bg_color=ffffff00&text_color=7159c1&hide_border=true"
-/>
--->
+  <summary><b> <samp> GitHub Stats</samp></b></summary>
+ 
+  ![Luiz-fg GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fg&show_icons=true&include_all_commits&icon_color=39ff14&text_color=808080&custom_title=Luiz-fg%20stats&hide_border=true)
+
 </details>
  
 
@@ -55,7 +50,7 @@
 
     
     
-<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Selo jacaré - eu vacinei</i> 
+<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Eu vacinei</i> 
 
 
 
