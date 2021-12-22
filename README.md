@@ -9,9 +9,9 @@
 </details>
 
 <details align="left">
-  <summary><b> <samp> GitHub Stats</samp></b></summary>
+  <summary><b> <samp> GitHub Status</samp></b></summary>
  
-  ![Luiz-fg GitHub stats](https://github-readme-stats.vercel.app/api?username=luiz-fg&show_icons=true&include_all_commits&icon_color=39ff14&text_color=808080&custom_title=Luiz-fg%20stats&hide_border=true)
+  ![Luiz-fg GitHub status](https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&include_all_commits&icon_color=39ff14&text_color=808080&title_color=39ff14&custom_title=Luiz-fg&hide_border=true)
 
 </details>
  
