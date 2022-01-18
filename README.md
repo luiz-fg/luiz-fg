@@ -13,7 +13,7 @@
  
   <img
   align="left"
-  height="210"
+  height="220"
   src="https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&include_all_commits&icon_color=ff6e4a&text_color=a3c9a7&title_color=5c5259&custom_title=Luiz-fg&hide_border=true"
 />
 </details>
