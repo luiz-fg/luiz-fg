@@ -11,8 +11,11 @@
 <details align="left">
   <summary><b> <samp> GitHub Status</samp></b></summary>
  
-  ![Luiz-fg GitHub status](https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&include_all_commits&icon_color=39ff14&text_color=808080&title_color=39ff14&custom_title=Luiz-fg&hide_border=true)
-
+  <img
+  align="left"
+  height="210"
+  src="https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&include_all_commits&icon_color=ff6e4a&text_color=a3c9a7&title_color=5c5259&custom_title=Luiz-fg&hide_border=true"
+/>
 </details>
  
 
