@@ -53,9 +53,9 @@
 <br>
 <br>
 
+  <img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Eu vacinei</i>   
     
-    
-<img align="center" style="width:3%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> 
+
 
 
 
