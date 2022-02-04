@@ -23,9 +23,11 @@
   <summary><b> <samp> Pessoal </samp></b></summary>
   <samp>
     <br/>
-    <p>:robot: Luiz Fernando</p> <br>
+    <p>:robot: Luiz Fernando</p>
+    <p>:student: Pós Graduação em Desenvolvimento Full Stack - <a href="http://online.pucrs.br">PUCRS</a></p>
+    <p><i>Início: 2022</i></p>
     <p>:student: Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
-    <p><i>Formado: 12/01/2022</i></p><br>
+    <p><i>Formado: 12/01/2022</i></p>
     <p>:musical_note: AC:zap:DC lover </p>
     <p>:blue_book: De tudo um pouco </p>
     <p>:clapper: Filmes - Séries - Documentários</p>
@@ -53,7 +55,7 @@
 
     
     
-<img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Eu vacinei</i> 
+<img align="center" style="width:3%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> 
 
 
 
