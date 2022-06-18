@@ -25,7 +25,7 @@
     <br/>
     <p>:robot: Luiz Fernando</p>
     <p>:student: Pós Graduação em Desenvolvimento Full Stack - <a href="http://online.pucrs.br">PUCRS</a></p>
-    <p><i>Início: 2022</i></p>
+    <p><i>Início: 05/2022</i></p>
     <p>:student: Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
     <p><i>Formado: 12/01/2022</i></p>
     <p>:musical_note: AC:zap:DC lover </p>
