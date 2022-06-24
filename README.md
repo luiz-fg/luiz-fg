@@ -48,6 +48,24 @@
       <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/javascript.svg" />
    </samp>
 </details>
+
+<details align="left">
+  <summary><b> <samp> Portfólio </samp></b></summary>
+  <samp>
+      <br>
+      <p>Veja abaixo alguns projetos</p>
+    <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/ConversorRomanos/main/img/rome-soldier.png" /> <a href="https://luiz-fg.github.io/ConversorRomanos/" target="_blank">Conversor Números Romanos</a>
+      <br>
+    <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/FlexTurismos/main/images/flaticon.png" /> <a href="https://luiz-fg.github.io/FlexTurismos/" target="_blank">Flex Turismos</a>
+      <br>
+     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/instagram_login/blob/main/img/instagram_fav.png" /> <a href="https://luiz-   fg.github.io/instagram_login/" target="_blank">Instagram Login Page</a>
+    <br>
+     <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/nft-card/main/images/favicon-32x32.png" /> <a href="https://luiz-fg.github.io/nft-card/" target="_blank">Nft Card</a>
+    <br>
+     <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/toDo/main/img/iconn.png" /> <a href="https://luiz-fg.github.io/toDo/" target="_blank">toDo</a>
+      
+  </samp>
+</details>
         
 <br>
 <br>
