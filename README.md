@@ -58,7 +58,7 @@
       <br>
     <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/FlexTurismos/main/images/flaticon.png" /> <a href="https://luiz-fg.github.io/FlexTurismos/" target="_blank">Flex Turismos</a>
       <br>
-     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/instagram_login/blob/main/img/instagram_fav.png" /> <a href="https://luiz-   fg.github.io/instagram_login/" target="_blank">Instagram Login Page</a>
+     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/instagram_login/blob/main/img/instagram_fav.png" /> <a href="https://luiz-fg.github.io/instagram_login/">Instagram Login Page</a>
     <br>
      <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/nft-card/main/images/favicon-32x32.png" /> <a href="https://luiz-fg.github.io/nft-card/" target="_blank">Nft Card</a>
     <br>
