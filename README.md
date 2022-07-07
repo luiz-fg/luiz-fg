@@ -63,6 +63,8 @@
      <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/nft-card/main/images/favicon-32x32.png" /> <a href="https://luiz-fg.github.io/nft-card/" target="_blank">Nft Card</a>
     <br>
      <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/toDo/main/img/iconn.png" /> <a href="https://luiz-fg.github.io/toDo/" target="_blank">toDo</a>
+     <br>
+     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/qr-code/blob/main/assets/img/favicon.png" /> <a href="https://luiz-fg.github.io/qr-code/" target="_blank">qr-code generator</a>
       
   </samp>
 </details>
