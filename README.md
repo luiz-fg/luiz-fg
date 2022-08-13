@@ -1,95 +1,41 @@
-<img align="right" style="width:40%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/Programmer.svg" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<br>
-<details align="left" >
-  <summary><b> <samp> Contato </samp></b></summary>
-  <samp>
-   :email:&nbsp;<a href=mailto:luiz.gomes@universo.univates.br?subject="Contato Profissional - atráves do github">Enviar e-mail</a>
-   </samp>
-</details>
+<p align="left"> 
+  Luiz Fernando, <br>
+  Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>,<br>
+  cursando Pós-Graduação em Desenvolvimento fullstack pela PUCRS.
+</p>
 
-<details align="left">
-  <summary><b> <samp> GitHub Status</samp></b></summary>
- 
-  <img
-  align="left"
-  height="180"
-  src="https://github-readme-stats.vercel.app/api?username=luiz-fg&count_private=true&show_icons=true&include_all_commits&icon_color=ff6e4a&text_color=a3c9a7&title_color=5c5259&custom_title=Luiz-fg&hide_border=true"
-/>
-</details>
- 
-
-<details align="left">
-  <summary><b> <samp> Pessoal </samp></b></summary>
-  <samp>
-    <br/>
-    <p>:robot: Luiz Fernando</p>
-    <p>:student: Pós Graduação em Desenvolvimento Full Stack - <a href="http://online.pucrs.br">PUCRS</a></p>
-    <p><i>Início: 05/2022</i></p>
-    <p>:student: Análise e Desenvolvimento de Sistemas - <a href="http://www.univates.br">Univates</a></p>
-    <p><i>Formado: 12/01/2022</i></p>
-    <p>:musical_note: AC:zap:DC lover </p>
-    <p>:books: [Leitura] - De tudo um pouco </p>
-    <p>:clapper: Filmes - Séries - Documentários</p>
-    <p>:small_airplane: Viajar  -  :bicyclist: Pedalar  -  :coffee: coffee of course</p>
-   </samp>
+<p align="left"> <i>
+  <strong> Hard Skills: </strong> </i> <br><br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
   
   
-</details>
-
-<details align="left">
-  <summary><b> <samp> Skills </samp></b></summary>
-  <samp>
-      <br>
-      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/java.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/mysql.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/html5.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/css3.svg" />&nbsp;&nbsp;
-      <img  style="width:4%;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/icons/javascript.svg" />
-   </samp>
-</details>
-
-<details align="left">
-  <summary><b> <samp> Portfólio </samp></b></summary>
-  <samp>
-      <br>
-      <p>Veja abaixo alguns projetos</p>
-    <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/ConversorRomanos/main/img/rome-soldier.png" /> <a href="https://luiz-fg.github.io/ConversorRomanos/" target="_blank">Conversor Números Romanos</a>
-      <br>
-    <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/FlexTurismos/main/images/flaticon.png" /> <a href="https://luiz-fg.github.io/FlexTurismos/" target="_blank">Flex Turismos</a>
-      <br>
-     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/instagram_login/blob/main/img/instagram_fav.png" /> <a href="https://luiz-fg.github.io/instagram_login/">Instagram Login Page</a>
-    <br>
-     <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/nft-card/main/images/favicon-32x32.png" /> <a href="https://luiz-fg.github.io/nft-card/" target="_blank">Nft Card</a>
-    <br>
-     <img align="center" style="width:2%;" src="https://raw.githubusercontent.com/luiz-fg/toDo/main/img/iconn.png" /> <a href="https://luiz-fg.github.io/toDo/" target="_blank">toDo</a>
-     <br>
-     <img align="center" style="width:2%;" src="https://github.com/luiz-fg/qr-code/blob/main/assets/img/favicon.png" /> <a href="https://luiz-fg.github.io/qr-code/" target="_blank">qr-code generator</a>
-      
-  </samp>
-</details>
-        
-<br>
-<br>
-<br>
-
-  <img align="center" style="width:4%; user-select: none;" src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/jacare.png" /> <i>Eu vacinei</i>   
-    
 
 
+</p>
 
+<p align="left"> <i>
+  <strong> Soft Skills: </strong> </i> <br>
+  <strong>Trabalho em Equipe - Pensamento Crítico - Criatividade -  Flexibilidade </strong>
+</p>
 
-<!--
-**luiz-fg/luiz-fg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  💌 Você pode entrar em contato comigo por aqui: ⤵️
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="mailto:luiz.gomes@universo.univates.br" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/luiz-fg/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
+
+</p>  
