@@ -1,4 +1,4 @@
-<img src="https://github.com/luiz-fg/luiz-fg/blob/main/Asset/img/computer-illustration.png"  max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 <p align="left"> 
   Luiz Fernando, <br>
