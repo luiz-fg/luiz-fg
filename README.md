@@ -33,7 +33,7 @@
 </p>
 
 <p align="left">
-  <a href="mailto:luiz.gomes@universo.univates.br" alt="Gmail">
+  <a href="mailto:luizfg.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
