@@ -1,7 +1,7 @@
 
 
 <p align="left"> 
-  Oi, sou o Luiz Fernando, <br>
+  Sou o Luiz Fernando, <br>
   Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>,<br>
   cursando Pós-Graduação em Desenvolvimento fullstack pela PUCRS.
 </p>
