@@ -2,8 +2,8 @@
 
 <p align="left">
   Oi, eu sou o Luiz Fernando! <br>
+  <strong>Pós-Graduado</strong> em Desenvolvimento Full Stack pela <strong>PUCRS.</strong><br>
   Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>,<br>
-  cursando Pós-Graduação em Desenvolvimento fullstack pela PUCRS.
 </p>
 
 <p align="left"> <i>
