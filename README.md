@@ -35,6 +35,9 @@
 <p align="left">
   <a href="mailto:luizfg.dev@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    
+  <a href="mailto:luiz.gomes@universo.univates.br" alt="Mail">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://www.linkedin.com/in/luiz-fg/" alt="Linkedin">
