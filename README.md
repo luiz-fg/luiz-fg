@@ -1,43 +1,53 @@
-
-
 <p align="left">
-  Oi, eu sou o Luiz Fernando! <br>
-  <strong>Pós-Graduado</strong> em Desenvolvimento Full Stack pela <strong>PUCRS.</strong><br>
-  Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong>,<br>
-</p>
-
-<p align="left"> <i>
-  <strong> Hard Skills: </strong> </i> <br><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
-  
-  
-  
-
-
-</p>
-
-<p align="left"> <i>
-  <strong> Soft Skills: </strong> </i> <br>
-  <strong>Trabalho em Equipe - Pensamento Crítico - Criatividade -  Flexibilidade </strong>
+  <strong>Desenvolvedor Full Stack</strong> • <i>Construindo com o Ecossistema TALL Stack</i>
 </p>
 
 <p align="left">
-  💌 Você pode entrar em contato comigo por aqui: ⤵️
+  <img src="https://img.shields.io/badge/T-ailwind_CSS-0ea5e9?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/A-lpine.js-8bc0d0?style=flat-square&logo=alpine.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/L-aravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/L-ivewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" />
 </p>
 
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
+
+### 🎓 Formação Acadêmica
+
+**Desenvolvimento Full Stack**<br>
+<sub>Pós-Graduação • PUCRS</sub>
+
+<br/>
+
+**Análise e Desenvolvimento de Sistemas**<br>
+<sub>Graduação • UNIVATES</sub>
+
+<br/>
+
+### 🛠️ Toolkit Técnico
+`PHP` &nbsp; `JavaScript` &nbsp; `Docker` &nbsp; `Git` &nbsp; `Linux` &nbsp; `Redis` &nbsp; `MySQL` &nbsp; `HTML5` &nbsp; `CSS3`
+
+<br/>
+
+### 🧠 Soft Skills
+**Trabalho em Equipe • Pensamento Crítico • Criatividade • Flexibilidade**
+
+<br/>
+
+### ✉️ Contato & Conexões
+
+<a href="https://www.linkedin.com/in/luiz-fg/">
+  <img src="https://img.shields.io/badge/LinkedIn_→-0a0a0a?style=for-the-badge" />
+</a>
+
+<br>
+
+<a href="mailto:luizfg.dev@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail_Profissional_→-0a0a0a?style=for-the-badge" />
+</a>
+
+<br/><br/>
+
+⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯⎯
 <p align="left">
-  <a href="mailto:luizfg.dev@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/luiz-fg/" alt="Linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>  
+  <sub>ECOSSISTEMA TALL STACK &nbsp; | &nbsp; SOFTWARE CRAFT</sub>
+</p>
